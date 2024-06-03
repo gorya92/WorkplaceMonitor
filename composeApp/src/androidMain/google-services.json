@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "863357629350",
+    "project_id": "workplaceandroid",
+    "storage_bucket": "workplaceandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863357629350:android:a72c438a75b7188b9b5567",
+        "android_client_info": {
+          "package_name": "goryachkovskiy.danil.mtuci.kmm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBVyLjAc05TF09yt4uNj2cWsBh-sZjCWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
